@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sweet apples
+=======
+apples
+>>>>>>> 1ee858baeecbcdebd608d81b46940900f38792da
